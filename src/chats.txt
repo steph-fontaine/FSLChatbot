@@ -1,0 +1,27 @@
+Salut, comment ça va?
+  - I am doing well, how about you?
+- - Ça va bien, et toi?
+  - Ça va bien aussi. Quest-ce que tu penses du temps?
+  - Il fait froid.
+  - Je pense ça aussi, il faut que tu portes un chandail.
+- - Ça va bien.
+  - Moi aussi, quest-ce que tu penses du temps?
+  - Il fait chaud.
+  - Ouais, je suis en accord avec toi! J'ai besoin d'un ventilateur.
+- - Salut
+  - Bonjour
+  - Comment ça va?
+  - Génial
+  - Ça pourrait aller mieux.
+  - Oui, c'est une journée sombre. 
+  - Est-ce que tu aimes le temps aujhourd'hui?
+  - Pas vraiment.
+  - J'aime le temps 
+  - Quoi de neuf?
+  - Rien de nouveau, et toi?
+  - Rien de nouveau aussi, je suis simplement un ordinateur.
+  - Tout baigne.
+  - Quoi de neuf?
+  - Le chiffre avant 10, sinon, toi, quoi de neuf?
+  - Enchantée.
+  - Enchantée.
