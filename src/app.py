@@ -1,56 +1,77 @@
 #!/bin/usr/env python3
 
+import enum
 from Motbot import Motbot
 
 
-def load_greetings(file_path):
+def load_conversation_file(file_path):
     """ ... """
 
-    # output = {}
+    conversation = []
 
     lines = None
     
     with open(file_path, 'r', encoding='utf8') as input_file:
         lines = input_file.readlines()
     
-    # TODO: Create dictionary containing keys (chatbot messages) to values (expected responses from the user).
+    for line in lines:
+        line = line.replace(' - ', '')
+        line = line.lstrip('-')
+        line = line.replace('\n', '')
+        line = line.strip()
 
-    # return output
+        conversation.append(line)
 
-    return lines
+    return conversation
+ 
+
+def load_conversation_map(conversation_list):
+    """ ... """
+
+    output = {}
+    
+    key = None
+    value = None
+
+    for i, line in enumerate(conversation_list):
+        if i % 2 == 0:
+            value = line
+        else:
+            key = line
+
+        if key is not None and value is not None:
+            output[key] = value
+            key = None
+            value = None
+
+
+    return output
 
 
 def main():
     """ The application entrypoint. """
 
-    # greetings = load_greetings('greetings.yml')
+    conversation = load_conversation_file('chats.txt')
+
+    perfect_response_map = load_conversation_map(conversation)
     
-    # for greeting in greetings:
-    #     print(greeting)
-
-    conversation = [
-        "Hello",
-        "Hi there!",
-        "How are you doing?",
-        "I'm doing great.",
-        "That is good to hear",
-        "Thank you.",
-        "You're welcome."
-    ]
-
-    perfect_response_map = {}
+    #for key in perfect_response_map:
+    #    print(key)
+    #    print(perfect_response_map[key])
+    
     motbot = Motbot('Motbot', perfect_response_map)
 
     motbot.train(conversation)
     motbot.say(f'Hello. My name is {motbot.name}! Let\'s chat! :)')
+    motbot.say('Salut, comment ça va? (Say: "I am good, and you?")')
 
     print()
 
-    expected_user_message = None
+    expected_user_message = 'Ça va bien, et toi?'
     score = 100
 
     while True:
-        user_message = input('Say: ')
+        user_message = input('You: ')
 
         if user_message.lower().strip() == 'bye':
             motbot.say('Bye!')

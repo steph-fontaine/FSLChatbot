@@ -1,5 +1,4 @@
 Salut, comment ça va?
-  - I am doing well, how about you?
 - - Ça va bien, et toi?
   - Ça va bien aussi. Quest-ce que tu penses du temps?
   - Il fait froid.
