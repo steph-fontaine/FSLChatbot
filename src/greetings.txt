@@ -2,7 +2,7 @@
   - Salut
 - - Bonjour! (Say: Hello)
   - Bonjour!
-- - Bonjour, Comment ça va? Est-ce que tu veux essayer les salutations avec moi? (Say: "Great!")
+- - Bonjour, Comment ça va? Est-ce que tu veux essayer les salutations avec moi? (Say: Great!)
   - Génial!
 - - Salut, Comment ça va? (Say: I am good, thank you. How are you?)
   - Ça va bien, merci. Comment ça va?
@@ -26,23 +26,23 @@
   - Nous sommes en colère.
 - - Pourquoi est-ce que vous êtes en colère? (Say: our neighbours are loud.)
   - Nos voisins sont bruyants. 
-- - Par ailleurs, comment vas-tu? (Say: "I am doing well, and you (in formal form)?")
+- - Par ailleurs, comment vas-tu? (Say: I am doing well, and you (in formal form)?)
   - Je vais bien, et vous?
-- - Ça va pas mal. Comment vas-tu? (Say: "I am doing well, and you (in informal form)?")
+- - Ça va pas mal. Comment vas-tu? (Say: I am doing well, and you (in informal form)?)
   - Je vais bien, et toi?
 - - Je vais bien aussi! (Say: Thank you for asking.)
   - Merci d'avoir demandé.
-- - Quoi de neuf? (Say: "Nothing new, and on your (informal) side?")
+- - Quoi de neuf? (Say: Nothing new, and on your (informal) side?)
   - Rien de nouveau, et de ton coté?
-- - Même vieil ordinateur avec les mêmes vieux problèmes, et toi? (Say: "Nothing special, and on your (formal) side?")
+- - Même vieil ordinateur avec les mêmes vieux problèmes, et toi? (Say: Nothing special, and on your (formal) side?)
 - - Rien de spécial, et de votre coté?
 - - Je rencontre quelqu'un de nouveau aujourd'hui (Say: Who are you meeting (informal)?)
   - Qui est-ce que tu rencontres?
 - - Je te rencontre! Et toi? Est-ce que tu rencontres quelqu'un de nouveau? (Say: Yes, I am meeting you (formal)!)
   - Oui, je vous rencontre!
-- - Enchantée. (Say:"Nice to meet you.")
+- - Enchantée. (Say:Nice to meet you.)
   - Enchantée.
-- - Salut, content de te connaitre. (Say: "Thank you. Me too.")
+- - Salut, content de te connaitre. (Say: Thank you. Me too.)
   - Merci. Moi aussi.
-- - Passe une bonne journée (Say: "Thank you, you (in formal form) too.")
+- - Passe une bonne journée (Say: Thank you, you (in formal form) too.)
   - Merci, toi aussi.
