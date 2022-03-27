@@ -1,0 +1,42 @@
+- - Salut (Say: Hi)
+  - Salut
+- - Il y a beaucoup de verbes en français (Say: Yes, there are also a lot in english)
+  - Oui, il y a aussi beaucoup en anglais
+- - Est-ce que tu veux parler avec les verbes qui finissent en =ir (Say: Oui)
+  - Oui
+- - Qu'est-ce que tu veux faire quand tu grandis? (Say: I want to be a politician (masculine) when I get older)
+  - Je veux être un homme politique quand je grandis
+- - Pourquoi (Say: I can abolish unfair laws)
+  - Je peux abolir les lois injustes
+- - Comment vas-tu différent que les autres politiques? (Say: I act more mature than others)
+  - J'agis plus mûr que les autres
+- - Qui va te soutenir? (Say: I support all my friends, so they (masc) are going to support me)
+  - Je soutiens tous mes amis, alors ils vont me soutenir
+- - J'espère que tu réussis. (Say: I hope I succeed also)
+  - J'espère que je réussis aussi
+- - Est-ce que tu connais les verbes qui finissent en =re? (Say: Yes, I am familiar with these verbs)
+  - Oui, je connais ces verbes
+- - Qu'est-ce que tu fais maintenant? (Say: I am waiting for my lecture now)
+  - J'attends ma conférence maintenant
+- - Est-ce que tu as tes devoirs? (Say: No, I always lose my homework)
+  - Non, je perds toujours mes devoirs
+- - Qu'est-ce que tu vas faire? (Say: I never return my homework)
+  - Je ne rends jamais mes devoirs
+- - Tu n'es pas un bon étudiant. (Say: I always answer my professor's (masc) questions)
+  - Je réponds toujours aux questions de mon professeur
+- - Comment est-ce que tu vas avoir de bonnes notes? (Say: I will sell my soul)
+  - Je vais vendre mon âme
+- - Maintenant, nous pouvons utiliser les verbes qui finissent en =er (Say: Great, that's easy)
+  - Génial, c'est facile
+- - Pourquoi est-ce que tu penses que c'est facile? (Say: because I can find a lot of verbes that end in er)
+  - Parce que je peux trouver beaucoup de verbes qui finissent en er
+- - Je vais assurer que c'est difficile. (Say: How are you going to ensure it?)
+  - Comment est-ce que tu vas l'assurer?
+- - Je ne sais pas encore, je dois penser. (Say: When conversations become hard, I stop them)
+  - Quand les conversations deviennent difficile, je les arrête
+- - Est-ce que tu vas me fermer? (Say: It seems like I am going to close you)
+  - Il semble que je vais te fermer
+- - Avant que tu me fermes, je vais quitter cette conversation (Say: Really?)
+  - Vraiment?
+- - Oui, au revoir (Say: Till next time)
+  - À bientôt

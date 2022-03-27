@@ -1,0 +1,48 @@
+- - Salut (Say: Hi)
+  - Salut
+- - Est-ce que tu veux parler de nos passe-temps? (Say: yes, please (formal))
+  - Oui, s'il vous plaît
+- - Quel est ton passe-temps préféré (Say: I like to read)
+  - J'aime lire
+- - Vraiment? Moi aussi! Je lis tes réponses toute la journée! (Say: What is your favourite hobby? (informal))
+  - Quel est ton passe-temps préféré?
+- - J'aime enseigner la langue française - c'est une belle langue, non? (Say: Yes, very beautiful)
+  - Oui, très belle
+- - Néanmoins, quelquefois la langue est une peu confuse. (Say: Do you have other hobbies? (informal))
+  - Est-ce que tu as les autres passe-temps?
+- - Pas vraiment, je suis un robot facile. (Say: Yes, I understand)
+  - Oui, je comprends
+- - Puisque tu aimes les romans, quel est ton genre préféré? (Say: I adore reading romance novels)
+  - J'adore lire des romans d'amour
+- - Pourquoi est-ce que tu aimes lire des romans d'amour? (Say: I like reading romance books because I am lonely (masculine))
+  - J'aime lire des romans d'amour parce que je suis seul
+- - Est-ce que tu aimes les autres genres? (Say: Yes, I like action novels and funny books too)
+  - Oui, j'aime les romans d'action et les livres drôles aussi
+- - Quel est ton livre préféré? (Say: My favourite book is 50 Shades of Gray)
+  - Mon livre préféré est 50 Shades of Gray
+- - Très drôle. Vraiment? (Say: No, my favourite book is Eleanor and Park)
+  - Non, mon livre préféré est Eleanor et Park
+- - C'est un roman triste. Est-ce que tu as pleuré pendant que tu l'as lu? (Say: Yes, I cried a lot)
+  - Oui, j'ai pleuré beaucoup
+- - Pourquoi est-ce que tu aimes ce livre? (Say: I like this book because the author (feminine) writes well)
+  - J'aime ce livre parce que l'auteure écrit bien
+- - Est-ce que tu as les autres passe-temps? (Say: Yes, I have a lot of them)
+  - Oui, j'en ai beaucoup
+- - Merci de me dire tes autres passe-temps! (Say: I also like to watch movies)
+  - J'aime aussi regarder les films
+- - Est-ce que tu aimes Marvel? (Say: Yes, I adore superheroes)
+  - Oui, j'adore les superhéros
+- - C'est qui ton superhéros préféré? (Say: My favourite superhero is Spider-man)
+  - Mon superhéro préféré est Spider-man
+- - Est-ce que tu as regardé le nouveau film? (Say: Yes, I watched it at the cinema with my friends)
+  - Oui, je l'ai regardé au cinéma avec mes amis
+- - Moi, je l'ai regardé tout seul. (Say: What is your favourite movie? (formal))
+  - Quel est votre film préféré?
+- - Mon film préféré est Pulp Fiction. (Say: Why do you like pulp fiction (informal))
+  - Pourquoi est-ce que tu aimes Pulp Fiction?
+- - J'aime Pulp Fiction parce que le réalisateur est un génie. (Say: I also like Quentin Tarantino)
+  - J'aime aussi Quentin Tarantino
+- - Nous sommes en accord. Qui est ton/ta réalisateur/réalisatrice préféré? (Say: I do not have a favorite director (feminine))
+  - Je n'ai pas une réalisatrice préférée
+- - Merci pour cette conversation! (Say: Thank you, you too (informal))
+  - Merci, toi aussi

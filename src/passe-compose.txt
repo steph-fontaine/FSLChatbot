@@ -1,0 +1,44 @@
+- - Salut (Say: Hi)
+  - Salut
+- - Quand tu veux parler de quelque chose qui c'est passé au passé, tu dois utiliser le passé composé (Say: What is that?)
+  - Qu'est-ce que c'est?
+- - Le passé composé est un temps de verbe! (Say: How do I use it?)
+  - Comment est-ce que je l'utilise?
+- - Tu conjugues l'auxiliare, avoir ou être, au présent. (Say: What do I do with the other verbs?)
+  - Qu'est-ce que je fais avec les autres verbes?
+- - Ils sont au passé, tu dois trouver leur participe passé! (Say: What else?)
+  - Quoi d'autre?
+- - Quand l'auxiliare est 'être', le participe passé se s'accorde avec le sujet. (Say: Okay, I understand)
+  - D'accord, je comprends
+- - Qu'est-ce que tu as fait hier? (Say: Yesterday, I studied)
+  - Hier, j'ai étudié
+- - C'est tout? (Say: I also played video games)
+  - J'ai joué des jeux vidéos aussi
+- - Et? Quoi d'autre? (Say: I went to my job)
+  - Je suis allé à mon emploi
+- - Quest-ce que tu as fait là? (Say: I slept at my desk)
+  - J'ai dormi à mon bureau
+- - Pourquoi est-ce que tu as fait ça? (Say: I was very tired (masculine))
+  - J'ai été très fatigué
+- - Qu'est-ce que tu as mangé ce matin? (Say: This morning, I ate cereal)
+  - Ce matin, j'ai mangé la céréale
+- - Est-ce que tu as mangé le déjeuner encore? (Say: I have not yet eaten lunch)
+  - Je n'ai pas encore mangé le déjeuner
+- - Pourquoi pas? (Say: I had too much work to do today)
+  - J'ai eu trop de travail à faire aujourd'hui
+- - Est-ce que tu es allée dehors aujourd'hui? (Say: Yes, I went to the park (feminine))
+  - Oui, je suis allée au parc
+- - Qu'est-ce que tu as fait au parc? (Say: I looked at the clouds)
+  - J'ai regardé les nuages
+- - Est-ce que tu as vu les nuages intéressants? (Say: Yes, I saw a lots of shapes)
+  - Oui, j'ai vu beaucoup de formes
+- - Pourquoi est-ce que tu es parti? (Say: I came to see you (masculine))
+  - Je suis venu à te voir
+- - Merci! Quand est-ce que tu as décidé d'apprendre le français? (Say: I decided when I moved to Montréal)
+  - J'ai décidé quand j'ai déménagé à Montréal
+- - Pourquoi est-ce que tu es encore ici? (Say: I stayed in Montréal because I like McGill (feminine))
+  - Je suis restée à Montréal parce que j'aime McGill
+- - J'aime McGill aussi! (Say: I thought you liked Concordia)
+  - J'ai pensé que tu as aimé Concordia
+- - Oui, j'aime les deux. Merci pour cette conversation (Say: Of course, you too)
+  - Bien sûr, toi aussi
