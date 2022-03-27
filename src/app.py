@@ -1,6 +1,7 @@
 #!/bin/usr/env python3
 
 import enum
+import sqlite3
 from Motbot import Motbot
 
 
@@ -51,26 +52,26 @@ def load_conversation_map(conversation_list):
 def main():
     """ The application entrypoint. """
 
-    conversation = load_conversation_file('chats.txt')
+    conversation = load_conversation_file('chats_1.txt')
 
     perfect_response_map = load_conversation_map(conversation)
-    
-    #for key in perfect_response_map:
-    #    print(key)
-    #    print(perfect_response_map[key])
     
     motbot = Motbot('Motbot', perfect_response_map)
 
     motbot.train(conversation)
     motbot.say(f'Hello. My name is {motbot.name}! Let\'s chat! :)')
-    motbot.say('Salut, comment ça va? (Say: "I am good, and you?")')
 
     print()
 
-    expected_user_message = 'Ça va bien, et toi?'
+    expected_user_message = None
     score = 100
 
-    while True:
+    print(f'Score: {score}')
+
+    for key in perfect_response_map:
+        motbot_message = perfect_response_map[key]
+        motbot.say(motbot_message)
+        expected_user_message = key
         user_message = input('You: ')
 
         if user_message.lower().strip() == 'bye':
@@ -78,17 +79,13 @@ def main():
             break
 
         if expected_user_message is not None:
-            if user_message == expected_user_message:
+            if user_message.casefold() == expected_user_message.casefold():
                 motbot.say('Good job, human!')
             else:
-                motbot.say(f'Not quite. I expected you to say:\n"{expected_user_message}".')
+                motbot.say(f'Not quite. I expected you to say:\n"{expected_user_message}".\n You lost 5 points :(')
                 score -= 5
             print()
 
-        motbot_message = motbot.get_response(user_message)
-        expected_user_message = motbot.get_expected_response(motbot_message)
-
-        motbot.say(motbot_message)
         print()
 
     print(f'Score: {score}')
