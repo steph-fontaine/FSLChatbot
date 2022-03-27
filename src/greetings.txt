@@ -1,37 +1,37 @@
 - - Salut (Say: Hi)
   - Salut
-- - Bonjour! (Say: Hello)
-  - Bonjour!
+- - Bonjour! (Say: Hello!)
+  - Bonjour
 - - Bonjour, Comment ça va? Est-ce que tu veux essayer les salutations avec moi? (Say: Great!)
-  - Génial!
-- - Salut, Comment ça va? (Say: I am good, thank you. How are you?)
+  - Génial
+- - Salut, Comment ça va? (Say: It is going well, thank you. How are you?)
   - Ça va bien, merci. Comment ça va?
-- - Ça va très bien. Je veux demander encore, tu vas bien? (Say: Very good, thank you)
-  - Très bien, merci.
-- - Est-ce que tu veux savoir mon nom? (Say: What is your name?)
+- - Ça va très bien. Je veux demander encore, tu vas bien? (Say: Very good, thank you.)
+  - Très bien, merci
+- - Est-ce que tu veux connaitre mon nom? (Say: What is your name?)
   - Comment t'appelles-tu?
 - - Je m'appelle Motbot! Je suis heureuse aujourd'hui. Toi? (Say: Yes, I am also happy!)
-  - Oui, je suis heureuse aussi!
+  - Oui, je suis heureuse aussi
 - - Mais vraiment, j'ai entendu dire que tu n'as pas dormi beaucoup. (Say: Yes, I am tired (masculine).)
-  - Oui, je suis fatigué.
+  - Oui, je suis fatigué
 - - Je suis désolée...pourquoi? (Say: I am sleepy.)
-  - J'ai sommeil.
-- - Oui, moi aussi. Alors, ça va? (Say: I am doing badly)
-  - Ça va mal.
+  - J'ai sommeil
+- - Oui, moi aussi. Alors, ça va? (Say: It is going badly.)
+  - Ça va mal
 - - Désolée, comment te sens-tu aujourd'hui? (Say: I am sad.)
-  - Je suis triste.
+  - Je suis triste
 - - Tu es triste? Et tes amis? (Say: They (masculine) are sad also.)
-  - Ils sont tristes aussi.
+  - Ils sont tristes aussi
 - - C'est deprimant. Et ta famille? Comment allez-vous? (Say: We are angry.)
-  - Nous sommes en colère.
+  - Nous sommes en colère
 - - Pourquoi est-ce que vous êtes en colère? (Say: our neighbours are loud.)
-  - Nos voisins sont bruyants. 
+  - Nos voisins sont bruyants 
 - - Par ailleurs, comment vas-tu? (Say: I am doing well, and you (in formal form)?)
   - Je vais bien, et vous?
 - - Ça va pas mal. Comment vas-tu? (Say: I am doing well, and you (in informal form)?)
   - Je vais bien, et toi?
 - - Je vais bien aussi! (Say: Thank you for asking.)
-  - Merci d'avoir demandé.
+  - Merci d'avoir demandé
 - - Quoi de neuf? (Say: Nothing new, and on your (informal) side?)
   - Rien de nouveau, et de ton coté?
 - - Même vieil ordinateur avec les mêmes vieux problèmes, et toi? (Say: Nothing special, and on your (formal) side?)
@@ -39,10 +39,10 @@
 - - Je rencontre quelqu'un de nouveau aujourd'hui (Say: Who are you meeting (informal)?)
   - Qui est-ce que tu rencontres?
 - - Je te rencontre! Et toi? Est-ce que tu rencontres quelqu'un de nouveau? (Say: Yes, I am meeting you (formal)!)
-  - Oui, je vous rencontre!
+  - Oui, je vous rencontre
 - - Enchantée. (Say:Nice to meet you.)
-  - Enchantée.
-- - Salut, content de te connaitre. (Say: Thank you. Me too.)
-  - Merci. Moi aussi.
-- - Passe une bonne journée (Say: Thank you, you (in formal form) too.)
-  - Merci, toi aussi.
+  - Enchantée
+- - Salut, content de te connaitre. (Say: Thank you, me too.)
+  - Merci, moi aussi
+- - Passe une bonne journée (Say: Thank you, you (informal form) too.)
+  - Merci, toi aussi
