@@ -80,7 +80,7 @@ def main():
     motbot.say('What do you want to work on today? Please choose from this list: sports, hobbies, greetings, present-verbs and passe-compose: ')
 
     user_choice = input().lower().strip()
-    available_topics = ['sports', 'hobbies', 'greetings', 'present-verbs', 'passe-compose', 'chats_1']
+    available_topics = ['sports', 'hobbies', 'greetings', 'present-verbs', 'passe-compose']
     valid_choice = False
     attempt_counter = 0
     
@@ -112,7 +112,7 @@ def main():
     current_score = 100
 
     print(f'Current Score: {current_score}')
-    motbot.say('Let\'s start! Remember that accents matter! ')
+    motbot.say('Let\'s start! Remember that accents matter! If you don\'t know the answer, type "Skip"')
     print()
 
     for key in perfect_response_map:
@@ -127,6 +127,12 @@ def main():
             break
 
         if expected_user_message is not None:
+            if user_message.lower().strip() == 'skip':
+                motbot.say(f'I expected you to say:\n"{expected_user_message}".\n You lost 5 points :(')
+                current_score -= 5
+                print()
+                continue
+
             matching_ratio = fuzz.ratio(user_message.lower().strip('!'), expected_user_message.lower())
             if matching_ratio >= 95:
                 motbot.say(f'Good job, {user_name}!')
